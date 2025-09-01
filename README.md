@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Knowledge!  
 
-![Banner Image](https://res.cloudinary.com/dtrn8j0sz/image/upload/v1746787744/PFP_gxv8zt.jpg)
+![Banner Image](https://res.cloudinary.com/dtrn8j0sz/image/upload/c_fill,h_300/v1746787744/PFP_gxv8zt.jpg)
 
 ## About Me 🚀
 
