@@ -2,6 +2,14 @@
 
 ![Banner Image](https://res.cloudinary.com/dtrn8j0sz/image/upload/c_fill,h_300/v1746787744/PFP_gxv8zt.jpg)
 
+### Connect with me on Socials
+
+<p align="left"> <a href="https://www.github.com/CodeWKnowledge" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/CodeWKnow_ledge" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/knowledge54" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@codewknowledge" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
+<a href="https://www.github.com/CodeWKnowledge" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/CodeWKnowledge?logo=github&style=for-the-badge&color=14b8a6&labelColor=1e3a8a" /></a><a href="https://www.x.com/CodeWKnow_ledge" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/CodeWKnow_ledge?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1e3a8a"
+/></a>
+
 ## About Me 🚀
 
 I like to think of myself as a *beginner with curiosity as my superpower* 🦸🏽‍♂.  
@@ -27,6 +35,16 @@ Even though I’m just getting started, here are the tools I’ve picked up so f
 
 
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/CodeWKnowledge"><img src="https://github-readme-stats.vercel.app/api?username=CodeWKnowledge&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="CodeWKnowledge's GitHub stats" /></a>
+
+<a href="http://www.github.com/CodeWKnowledge"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWKnowledge&stroke=ffffff&background=1e3a8a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+
 ## Featured Projects 💻  
 
 Since I’m still building my portfolio, here are some starter projects I’m working on:  
@@ -38,12 +56,7 @@ My first attempt at making something interactive with HTML, CSS, and JavaScript.
 A small project where I practice styling and layout. Nothing fancy yet, but progress is progress!  
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/codewknow_ledge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewknow_ledge" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/knowledge54/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/knowledge54/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/codewithknowledge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/codewithknowledge" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@codewknowledge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@codewknowledge" height="30" width="40" /></a>
-</p>
+
+
 
 If you’ve got tips, advice, or just want to connect — I’m always open to learning from others 🤝
