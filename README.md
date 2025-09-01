@@ -38,16 +38,12 @@ My first attempt at making something interactive with HTML, CSS, and JavaScript.
 A small project where I practice styling and layout. Nothing fancy yet, but progress is progress!  
 
 
-
-## Get in Touch 📬  
-
-- 🌍 [LinkedIn](#https://www.linkedin.com/in/knowledge54/)  
-- 🐦 [Twitter/X](#https://x.com/CodeWKnow_ledge)  
-- 📧 [Email](#udohknowledg5@gmail.com)
-- 🎥 [Youtube](#https://youtube.com/@codewknowledge)
-- ⚡ [Tiktok](#https://www.tiktok.com/@codewithknowledge)
-- 🎈 [Instagram](#https://www.instagram.com/codewithknowledge)
--  
-- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/codewknow_ledge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewknow_ledge" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/knowledge54/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/knowledge54/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/codewithknowledge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/codewithknowledge" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@codewknowledge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@codewknowledge" height="30" width="40" /></a>
+</p>
 
 If you’ve got tips, advice, or just want to connect — I’m always open to learning from others 🤝
