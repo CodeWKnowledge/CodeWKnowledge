@@ -13,7 +13,12 @@ src="https://img.shields.io/twitter/follow/CodeWKnow_ledge?logo=twitter&style=fo
 ## About Me 🚀
 
 I like to think of myself as a *beginner with curiosity as my superpower* 🦸🏽‍♂.  
-Right now, I’m rebuilding my coding journey from scratch — learning, experimenting, and having fun along the way.  
+ 
+I hit reset on my coding journey. Instead of patching gaps, I chose to start over — this time with the right foundation.  
+
+I’m currently taking the *ALX Front-End Course*, rebuilding my skills step by step and documenting the process here.  
+
+This GitHub isn’t just a collection of projects. It’s proof of growth, persistence, and my commitment to becoming a strong front-end engineer.
 
 - 🌱 Currently learning: JavaScript (and yes, it sometimes fights me back 😅)  
 - 🔭 Working on: small web projects & starter repos  
