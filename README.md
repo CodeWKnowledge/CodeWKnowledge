@@ -44,16 +44,27 @@ Even though I’m just getting started, here are the tools I’ve picked up so f
 <a href="http://www.github.com/CodeWKnowledge"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWKnowledge&stroke=ffffff&background=1e3a8a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
+## 💻 Featured Projects
 
-## Featured Projects 💻  
+<!-- Decorative SVG divider (safe for GitHub README) -->
+<section id="featured-projects" class="text-center p-6">
+  <img 
+    src="https://res.cloudinary.com/dtrn8j0sz/image/upload/c_fill,w_600,h_338,ar_16:9/v1756767048/8140783_nhhlqr.jpg" 
+    alt="Funny 404 Illustration" 
+    class="mx-auto w-64 h-64 object-contain"
+  />
+  <h2 class="text-2xl font-bold mt-4">Oops... No Projects Yet! 🚧</h2>
+  <p class="text-gray-600 mt-2">
+    Chill I took them out to cook better. Check back soon for some cool stuff! ✨
+  </p>
+</section>
 
-Since I’m still building my portfolio, here are some starter projects I’m working on:  
+### *404: Projects Not Found*  
+> Status: learning-in-progress → shipping soon 🚚✨
 
-### [Beginner Project 1](#)  
-My first attempt at making something interactive with HTML, CSS, and JavaScript.  
-
-### [Beginner Project 2](#)  
-A small project where I practice styling and layout. Nothing fancy yet, but progress is progress!  
+- My repos are currently *doing push-ups* (building fundamentals).  
+- ETA: as soon as JavaScript stops wrestling me 😅  
+- Expect: tiny apps, honest commits, and a few heroic bug fixes.
 
 
 
