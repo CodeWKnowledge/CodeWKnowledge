@@ -12,19 +12,20 @@ src="https://img.shields.io/twitter/follow/CodeWKnow_ledge?logo=twitter&style=fo
 
 ## About Me 🚀
 
-I like to think of myself as a *beginner with curiosity as my superpower* 🦸🏽‍♂.  
+I like to think of myself as a *Curious beginner * 🦸🏽‍♂.  
  
 I hit reset on my coding journey. Instead of patching gaps, I chose to start over — this time with the right foundation.  
 
 I’m currently taking the *ALX Front-End Course*, rebuilding my skills step by step and documenting the process here.  
 
-This GitHub isn’t just a collection of projects. It’s proof of growth, persistence, and my commitment to becoming a strong front-end engineer.
+This GitHub isn’t a collection of projects (YET!!). It’s proof of growth, persistence, and my commitment to becoming a strong front-end engineer.
 
 - 🌱 Currently learning: JavaScript (and yes, it sometimes fights me back 😅)  
 - 🔭 Working on: small web projects & starter repos  
 - 🌍 Languages: HTML, CSS, JavaScript (and human: English)  
 - 📫 How to reach me: [https://wa.me/qr/DF3ZVTQPB5R2P1]  
-- ⚡ Fun fact: I sometimes break my own code just to learn how to fix it 🛠  
+- ⚡ Fun fact: Not really all fun but I used to be a heavy vibe coder who did'nt know what he was doing 🛠
+  That was the major reason for my restart 
 
 
 
